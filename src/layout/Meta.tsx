@@ -57,7 +57,7 @@ const Meta = (props: IMetaProps) => {
 
       {/* Google Analytics */}
       <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-9HK1MHFQ0K"
+        src="https://www.googletagmanager.com/gtag/js?id=G-4T6YYZLMTK"
         strategy="afterInteractive"
       />
       <Script
