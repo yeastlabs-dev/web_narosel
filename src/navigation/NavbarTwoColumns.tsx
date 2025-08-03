@@ -1,6 +1,5 @@
 // src/navigation/NavbarTwoColumns.js
 
-import Link from 'next/link'; // Tento import je stále potřeba pro navigační položky (<li> Linky)
 import type { ReactNode } from 'react';
 
 type INavbarProps = {
