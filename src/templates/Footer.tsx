@@ -38,7 +38,7 @@ const Footer = () => (
     </Section>
     {/* Nová sekce pro copyright a zmínku o Yeastlabs */}
     <div className="bg-primary-900 text-center text-white text-sm py-4">
-      © {new Date().getFullYear()} Narosel.cz. Všechna práva vyhrazena. | Vytvořeno s pomocí <span className="font-semibold text-secondary">Yeastlabs</span>.
+      © {new Date().getFullYear()} Narosel - Všechna práva vyhrazena. | Vytvořeno s pomocí <span className="font-semibold text-secondary">Yeastlabs</span>.
     </div>
   </Background>
 );
