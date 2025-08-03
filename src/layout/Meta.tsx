@@ -57,7 +57,7 @@ const Meta = (props: IMetaProps) => {
 
       {/* Google Analytics */}
       <Script
-        src="https://www.googletagmanager.com/gtag/js?id=G-4T6YYZLMTK"
+        src="https://www.googletagmanager.com/gtag/js?id=G-BZHWVQM54E"
         strategy="afterInteractive"
       />
       <Script
@@ -68,7 +68,7 @@ const Meta = (props: IMetaProps) => {
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-4T6YYZLMTK');
+            gtag('config', 'G-BZHWVQM54E');
           `,
         }}
       />
