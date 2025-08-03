@@ -68,7 +68,7 @@ const Meta = (props: IMetaProps) => {
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-9HK1MHFQ0K');
+            gtag('config', 'G-4T6YYZLMTK');
           `,
         }}
       />
